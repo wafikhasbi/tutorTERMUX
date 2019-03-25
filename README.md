@@ -18,10 +18,10 @@ $ ls
 $ python2 mbfz.py
 # selamat anda sudah bisa menjalakan tools
 # kode2 install tools:
--python2
--bash
--sh
--php
+-python2(py)
+-bash(sh)
+-sh(sh)
+-php(php)
 
 # ok itu aja tutor dari saya salam dari wafi khasbi nikmal maulana
 
